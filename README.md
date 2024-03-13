@@ -15,3 +15,10 @@ The project is being developed by the following team members:
 - Arjun Singh
 - Leisha Murthy
 
+https://medium.com/@zimmermann.lowbrass/flatiron-project-5-part1-mta-data-and-beautiful-soup-e1b46adc210b
+https://medium.com/@johnteckert/what-the-gtfs-is-going-on-a03433b2a6bd
+
+You can install flask, start flask with flask run --debug -p 8000, click on the link, and see a basic page. Add a "transit" to the end of the URL to see the request, which is word vomited on the page
+
+'''
+
